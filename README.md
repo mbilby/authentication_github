@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
-
-<body>
-  <center><img src="assets/img/banner.png" width="80%" /></center>
+  <center><img src="https://user-images.githubusercontent.com/51273322/120051058-2c84ff00-bfed-11eb-92e5-cd7116b55d3d.png" width="80%" /></center>
   <center>
     <h1>Autenticação GitHub via API com Python</h1>
   </center>
@@ -34,6 +23,3 @@
         acesso pessoal que foram usados em um ano.</p>
     </div>
   </div>
-</body>
-
-</html>
