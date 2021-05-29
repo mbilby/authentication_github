@@ -113,6 +113,5 @@
       <span>
         <img src="https://user-images.githubusercontent.com/51273322/120053119-758d8100-bff6-11eb-8031-6b12f77b6f99.png" width="20%">
       </span>
-
-    </div>
   </div>
+  
