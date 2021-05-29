@@ -5,7 +5,7 @@
   <h1>Criar um token de acesso pessoal</h1>
   <p>Você deve criar um token de acesso pessoal para usar no lugar de uma senha
     com a linha de comando ou com a API.</p>
-  <div>
+<div>
     <div>
       <p>Os tokens de acesso pessoal (PATs) são uma alternativa para o uso de
         senhas para autenticação no GitHub ao usar a API do GitHub ou a linha
@@ -33,7 +33,7 @@
       <p>Como medida de segurança, o GitHub remove automaticamente tokens de
         acesso pessoal que foram usados em um ano.</p>
     </div>
-  </div>
+</div>
   <div>
     <div>
       <h3>Criar um Token</h3>
@@ -103,15 +103,15 @@
     <div>
       <h1>Personal Token</h1>
       <span>
-        <img src="assets/img/figura 1.png" width="30%">
+        <img src="https://user-images.githubusercontent.com/51273322/120053111-70303680-bff6-11eb-9f68-968e0e9a7cdc.png" width="30%">
       </span>
       <h1>Função que irá realizar a autenticação e mostrar os dados do usuário</h1>
       <span>
-        <img src="assets/img/figura 2.png" width="30%">
+        <img src="https://user-images.githubusercontent.com/51273322/120053118-74f4ea80-bff6-11eb-809c-b9ebce17da63.png" width="30%">
       </span>
       <h1>Em seguida basta chamar a Função</h1>
       <span>
-        <img src="assets/img/figura 3.png" width="20%">
+        <img src="https://user-images.githubusercontent.com/51273322/120053119-758d8100-bff6-11eb-8031-6b12f77b6f99.png" width="20%">
       </span>
 
     </div>
